@@ -57,7 +57,6 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-900 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-gray-600">
           <p>&copy; {new Date().getFullYear()} Facilito.ar. Todos los derechos reservados.</p>
-          <p className="mt-2 md:mt-0 opacity-50">Diseñado con tecnología Gemini AI</p>
         </div>
       </div>
     </footer>
